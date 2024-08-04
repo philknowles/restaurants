@@ -1,0 +1,84 @@
+{
+  "restaurants": [
+    {
+      "name": "Spin Pizza",
+      "lat": "38.926738",
+      "lng": "-94.410966",
+      "cuisine": "Italian",
+      "street": "1808 NW Chipman Rd",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64081"
+    },
+    {
+      "name": "3rd Street Social",
+      "lat": "38.91284095",
+      "lng": "-94.37498450841696",
+      "cuisine": "American Classic",
+      "street": "123 SE 3rd St",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64063"
+    },
+    {
+      "name": "Jack Stack BBQ",
+      "lat": "38.9323344",
+      "lng": "-94.41155725409887",
+      "cuisine": "American BBQ",
+      "street": "1840 NW Chipman Rd",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64081"
+    },
+    {
+      "name": "First Watch",
+      "lat": "38.930154595039305",
+      "lng": "-94.4130565093818",
+      "cuisine": "Breakfast",
+      "street": "920 NW Pryor Rd",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64081"
+    },
+    {
+      "name": "Habenero's",
+      "lat": "38.903108446382944",
+      "lng": "-94.35593097888209",
+      "cuisine": "Casual Mexican",
+      "street": "1008 SE Blue Pkwy",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64063"
+    },
+    {
+      "name": "The Big Buscuit",
+      "lat": "38.9035435",
+      "lng": "-94.3637817",
+      "cuisine": "Breakfast",
+      "street": "1640 SE Blue Pkwy",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64063"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "lat": "38.92825785304881",
+      "lng": "-94.400989847289",
+      "cuisine": "American Cuisine",
+      "street": "740 NW Blue Pkwy",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64086"
+    },
+    {
+      "name": "Martin City Brewing",
+      "lat": "38.904814031589254",
+      "lng": "-94.38106582466936",
+      "cuisine": "American",
+      "street": "354 SW Blue Pkwy",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64063"
+    }
+  ]
+}

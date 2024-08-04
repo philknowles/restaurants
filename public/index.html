@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Map</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <div id="form-container">
+        <form id="restaurant-form">
+            <!-- <label for="name">Name:</label> -->
+            <input type="text" id="name" placeholder="Name" required>
+            <!-- <label for="street">Street Address:</label> -->
+            <input type="text" id="street" placeholder="Street" required>
+            <!-- <label for="city">City:</label> -->
+            <input type="text" id="city" placeholder="City" required>
+            <!-- <label for="state">State:</label> -->
+            <input type="text" id="state" placeholder="State" required>
+            <!-- <label for="zip">ZIP Code:</label> -->
+            <input type="text" id="zip" placeholder="Zip Code" required>
+            <!-- <label for="cuisine">Cuisine:</label> -->
+            <input type="text" id="cuisine" placeholder="Cuisine" required>
+            <button type="submit">Add Restaurant</button>
+        </form>
+    </div>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
